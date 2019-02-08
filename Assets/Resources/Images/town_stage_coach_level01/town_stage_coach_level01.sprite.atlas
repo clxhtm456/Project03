@@ -1,0 +1,20 @@
+
+town_stage_coach_level01.sprite.png
+size: 1018,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 2
+  size: 510, 358
+  orig: 510, 358
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 514, 3
+  size: 502, 357
+  orig: 502, 357
+  offset: 0, 0
+  index: -1

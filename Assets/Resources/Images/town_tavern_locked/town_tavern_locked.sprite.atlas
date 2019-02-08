@@ -1,0 +1,20 @@
+
+town_tavern_locked.sprite.png
+size: 1574,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 819, 40
+  size: 768, 753
+  orig: 768, 753
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 2, 2
+  size: 815, 806
+  orig: 815, 806
+  offset: 0, 0
+  index: -1

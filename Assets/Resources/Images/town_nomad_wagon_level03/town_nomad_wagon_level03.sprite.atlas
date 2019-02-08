@@ -1,0 +1,27 @@
+
+town_nomad_wagon_level03.sprite.png
+size: 1119,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 19
+  size: 524, 395
+  orig: 524, 395
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 528, 2
+  size: 505, 412
+  orig: 505, 412
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1035, 330
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1

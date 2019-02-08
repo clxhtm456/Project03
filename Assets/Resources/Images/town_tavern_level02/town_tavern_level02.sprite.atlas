@@ -1,0 +1,69 @@
+
+town_tavern_level02.sprite.png
+size: 2183,842
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 995, 2
+  size: 838, 890
+  orig: 838, 890
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 2, 22
+  size: 818, 991
+  orig: 818, 991
+  offset: 0, 0
+  index: -1
+light_door
+  rotate: false
+  xy: 1887, 124
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+light_second_floor_small
+  rotate: false
+  xy: 1887, 124
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+light_first_floor
+  rotate: false
+  xy: 1887, 314
+  size: 164, 171
+  orig: 164, 171
+  offset: 0, 0
+  index: -1
+light_second_floor
+  rotate: false
+  xy: 1887, 198
+  size: 109, 114
+  orig: 109, 114
+  offset: 0, 0
+  index: -1
+light_third_floor
+  rotate: false
+  xy: 1887, 198
+  size: 109, 114
+  orig: 109, 114
+  offset: 0, 0
+  index: -1
+light_second_floor_round
+  rotate: false
+  xy: 2053, 398
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 1887, 487
+  size: 353, 294
+  orig: 353, 294
+  offset: 0, 0
+  index: -1

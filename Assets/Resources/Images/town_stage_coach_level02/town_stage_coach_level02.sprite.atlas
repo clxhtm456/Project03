@@ -1,0 +1,41 @@
+
+town_stage_coach_level02.sprite.png
+size: 1056,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 487, 16
+  size: 483, 334
+  orig: 483, 334
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 2, 2
+  size: 483, 348
+  orig: 483, 348
+  offset: 0, 0
+  index: -1
+light_door
+  rotate: true
+  xy: 972, 279
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+light_middle
+  rotate: false
+  xy: 972, 206
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+light_right
+  rotate: false
+  xy: 972, 141
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1

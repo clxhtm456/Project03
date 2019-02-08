@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1346681504068300}
+  m_IsPrefabAsset: 1
+--- !u!1 &1346681504068300
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4882073213077278}
+  - component: {fileID: 114343617562165574}
+  m_Layer: 0
+  m_Name: Spell_Heal
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4882073213077278
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1346681504068300}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1077.8, y: 107.09999, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114343617562165574
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1346681504068300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2097ddd910e26c14d8e8463bbe3816c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spellEntry: 6
+  spellName: "\uD68C\uBCF5"
+  spellDistance: 0
+  spellType: 0
+  value1: 0
+  value2: 2
+  value3: 0
+  value4: 0
+  steminaCost: 0
+  coolTime: 5
+  spellScript: 
+  spellContext: "\uB300\uC0C1\uD558\uB098\uB97C \uC9C0\uC815\uD558\uC5EC \uCCB4\uB825\uC744
+    \uD68C\uBCF5\uC2DC\uD0B5\uB2C8\uB2E4"
+  spellIcon: {fileID: 21300000, guid: c8874092395728a48b7ab3dbc07d282d, type: 3}
+  spellTarget: {fileID: 0}
+  spellCaster: {fileID: 0}
+  spellCardList: []
+  spellReady: 0

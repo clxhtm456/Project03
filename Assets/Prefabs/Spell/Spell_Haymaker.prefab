@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1429976560721990}
+  m_IsPrefabAsset: 1
+--- !u!1 &1429976560721990
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4336241893759314}
+  - component: {fileID: 114857464150250568}
+  m_Layer: 0
+  m_Name: Spell_Haymaker
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4336241893759314
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1429976560721990}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1077.8, y: 107.09999, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114857464150250568
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1429976560721990}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62bdd256cde2d18439981b149c963501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spellEntry: 8
+  spellName: "\uD06C\uAC8C\uC62C\uB824\uBCA0\uAE30"
+  spellDistance: 0
+  spellType: 0
+  value1: 5
+  value2: 0
+  value3: 0
+  value4: 0
+  steminaCost: 0
+  coolTime: 0
+  spellScript: 
+  spellContext: 
+  spellIcon: {fileID: 0}
+  spellTarget: {fileID: 0}
+  spellCaster: {fileID: 0}
+  spellCardList: []
+  spellReady: 0

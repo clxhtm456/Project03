@@ -1,0 +1,20 @@
+
+town_statue_level01.sprite.png
+size: 450,900
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 2, 2
+  size: 410, 446
+  orig: 410, 446
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 2, 414
+  size: 419, 484
+  orig: 419, 484
+  offset: 0, 0
+  index: -1
